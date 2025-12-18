@@ -71,13 +71,7 @@
 
 ---
 
-### 🏆 GitHub Achievements
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulgani07&theme=flat&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
