@@ -61,8 +61,7 @@
 * Full-stack e-commerce platform built with **Next.js, Node.js, Express, and MySQL**
 * Implemented **SEO-friendly architecture**, category-based browsing, advanced filtering, and pagination
 * Designed scalable backend APIs and optimized database queries for performance
-* 🔗 **Live Site:** [https://shobdotori.com](https://shobdotori.com) *(or add live demo link)*
-* 💻 **Source Code:** [https://github.com/abdulgani07/shobdotori](https://github.com/abdulgani07/shobdotori) *(if public)*
+* 🔗 **Live Site:** [https://www.shobdotori.com](https://www.shobdotori.com)
 
 #### 🔐 **Authentication & User Management System**
 
