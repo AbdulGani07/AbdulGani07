@@ -2,8 +2,6 @@
 
 ### 🚀 A passionate Software Engineering Student from Bangladesh
 
-<img align="right" alt="coding" height="200" width="300" src="https://camo.githubusercontent.com/f8fb6e12c02d9f7160f1e67722d0392b3cdb2eabf31ec73400afd53bcab10295/68747470733a2f2f692e6962622e636f2f4d6b6a673279382f3132322e676966" />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdulgani07&label=Profile%20views&color=0e75b6&style=flat" alt="abdulgani07" />
 </p>
