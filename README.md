@@ -80,12 +80,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulgani07&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulgani07&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulgani07" alt="GitHub Streak" />
-</p>
 
 ---
 
