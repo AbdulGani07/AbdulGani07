@@ -36,12 +36,12 @@
 
 ### 🛠️ Technical Skills
 
-**Frontend:** React, Vue.js, JavaScript, HTML, CSS
-**Backend:** Node.js, Express.js, .NET, REST APIs
-**Databases:** MySQL, MongoDB
-**Programming Languages:** C, C++, JavaScript, Python
-**Data & ML:** PyTorch, Seaborn
-**Tools & Concepts:** Git, API Design, MVC Architecture, Authentication, Performance Optimization
+<p> **Frontend:** React, Vue.js, JavaScript, HTML, CSS </p>
+<p> **Backend:** Node.js, Express.js, .NET, REST APIs </p>
+<p> **Databases:** MySQL, MongoDB </p>
+<p> **Programming Languages:** C, C++, JavaScript, Python </p>
+<p> **Data & ML:** PyTorch, Seaborn </p>
+<p> **Tools & Concepts:** Git, API Design, MVC Architecture, Authentication, Performance Optimization </p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
