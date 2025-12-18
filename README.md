@@ -76,13 +76,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulgani07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulgani07&show_icons=true&locale=en" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulgani07&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
-</p>
-
 
 ---
 
