@@ -13,7 +13,6 @@
 * 🎓 Software Engineering student with a strong focus on **full-stack web development** and **backend engineering**
 * 💻 Experienced in building **end-to-end applications** using modern JavaScript frameworks and RESTful APIs
 * 🧠 Solid foundation in **data structures, problem solving, and system design concepts**
-* 📝 Technical writer on **[Techtunes](https://www.techtunes.io)**, sharing practical programming insights
 * 📫 Contact: **[abdulgani10525@gmail.com](mailto:abdulgani10525@gmail.com)**
 
 ---
@@ -36,12 +35,12 @@
 
 ### 🛠️ Technical Skills
 
-<p> **Frontend:** React, Vue.js, JavaScript, HTML, CSS </p>
-<p> **Backend:** Node.js, Express.js, .NET, REST APIs </p>
-<p> **Databases:** MySQL, MongoDB </p>
-<p> **Programming Languages:** C, C++, JavaScript, Python </p>
-<p> **Data & ML:** PyTorch, Seaborn </p>
-<p> **Tools & Concepts:** Git, API Design, MVC Architecture, Authentication, Performance Optimization </p>
+* **Frontend:** React, Vue.js, JavaScript, HTML, CSS
+* **Backend:** Node.js, Express.js, .NET, REST APIs
+* **Databases:** MySQL, MongoDB 
+* **Programming Languages:** C, C++, JavaScript, Python 
+* **Data & ML:** PyTorch, Seaborn 
+* **Tools & Concepts:** Git, API Design, MVC Architecture, Authentication, Performance Optimization 
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
@@ -53,6 +52,7 @@
 </p>
 
 ---
+
 
 ### 🚀 Projects (Full-Stack Focus)
 
