@@ -69,8 +69,6 @@
 * Designed and developed reusable REST APIs with proper validation and error handling
 * Focused on clean architecture, scalability, and maintainability
 
-> 📌 *Check pinned repositories below for detailed implementations and live demos*
-
 ---
 
 ### 🏆 GitHub Achievements
