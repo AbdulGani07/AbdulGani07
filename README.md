@@ -59,16 +59,6 @@
 * Designed scalable backend APIs and optimized database queries for performance
 * 🔗 **Live Site:** [https://www.shobdotori.com](https://www.shobdotori.com)
 
-#### 🔐 **Authentication & User Management System**
-
-* Secure login & signup system using **JWT, bcrypt, and session management**
-* Role-based access control and protected routes
-
-#### 🌐 **RESTful API Projects**
-
-* Designed and developed reusable REST APIs with proper validation and error handling
-* Focused on clean architecture, scalability, and maintainability
-
 ---
 
 
